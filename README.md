@@ -29,9 +29,9 @@
 ![](http://i.imgur.com/wNUcR0U.png)
 
 ###帮助主题
-显示该程序的功能说明
+显示该程序的功能说明 </br>
 ![](http://i.imgur.com/NKWL83f.png)
 
 ###关于工具
-该程序的版权声明及作者信息
+该程序的版权声明及作者信息  </br>
 ![](http://i.imgur.com/sC2KXXV.png)
